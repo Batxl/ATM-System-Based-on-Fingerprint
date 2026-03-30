@@ -5,6 +5,9 @@ This project presents the design of a biometric-based ATM system using fingerpri
 ## Overview
 The project focuses on enhancing security by replacing traditional authentication methods (cards and passwords) with biometric identification.
 
+## Project Content
+The full project documentation, including UML diagrams (use case, sequence, flowcharts), project planning (WBS, Gantt chart), and system design, is available in the attached PDF.
+
 ## Key Features
 - Requirements analysis and system design
 - UML diagrams (use case, sequence, flowcharts)
